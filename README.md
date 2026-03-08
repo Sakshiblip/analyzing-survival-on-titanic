@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakshiblip/analyzing-survival-on-titanic/blob/main/analysing_survival_on_titanic.ipynb)
+
 
 # Analysing Survival on the Titanic 🚢
 
